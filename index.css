@@ -1,0 +1,26 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brl {
+
+    border-left: 1px solid #000;
+}
+
+
+.teks {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.sub-Menu:hover {
+    background-color: darkgray;
+}
+
+
+.budged {}
